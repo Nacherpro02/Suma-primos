@@ -1,1 +1,1 @@
-# Suma-primos
+# Suma-primos-Java
