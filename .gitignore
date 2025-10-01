@@ -1,0 +1,15 @@
+# Archivos y carpetas de Eclipse
+/.classpath
+/.project
+/.settings/
+/bin/
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
